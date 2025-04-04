@@ -1,0 +1,6 @@
+"2","r error 4 (Error in eval(ele) : 找不到对象'params'
+)"
+"0","library(knitr)"
+"0","opts_chunk$set("
+"0","  echo = FALSE, warning = FALSE, message = FALSE"
+"0",")"

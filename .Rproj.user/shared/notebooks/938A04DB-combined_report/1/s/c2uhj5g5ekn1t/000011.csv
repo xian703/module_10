@@ -1,0 +1,7 @@
+"0","here::i_am(""combined_report.Rmd"")"
+"2","here() starts at C:/Users/sunshine/Desktop/emory_study/data_science/project3
+"
+"0","datapath <- here::here(""data/data_clean.rds"")"
+"0","data <- readRDS("
+"0","  file = datapath"
+"0",")"

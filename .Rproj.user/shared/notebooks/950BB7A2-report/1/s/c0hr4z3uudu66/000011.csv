@@ -1,0 +1,7 @@
+"0","here::i_am(""report.Rmd"")"
+"2","here() starts at C:/Users/sunshine/Desktop/emory_study/data_science/project3/subproject2
+"
+"0","both_regression_tables <- readRDS("
+"0","  file = here::here(""output/both_regression_tables.rds"")"
+"0",")"
+"0","both_regression_tables$primary"
